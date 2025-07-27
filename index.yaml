@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.27.0
+    created: "2025-07-27T18:00:08.671364546+02:00"
+    description: A Helm for deplo nginx
+    digest: a0e57237f252d628dd5eef35797ec1e86466708c86739763c2ec5e9c1a42fe4b
+    name: nginx
+    type: application
+    urls:
+    - nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-07-27T18:00:08.670412943+02:00"
